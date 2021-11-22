@@ -83,7 +83,7 @@ def about_programm():
     label_info.grid(row=2, column=0)
 
     label_contact_info = Label(new_window,
-                       text="Исходный код программы размещён по адресу: ***.")
+                       text="Исходный код программы размещён по адресу: https://github.com/SunshineOMM/ZipSplitter.git.")
     label_contact_info.grid(row=3, column=0)
 
 #-------------------END GUI---------------------------
